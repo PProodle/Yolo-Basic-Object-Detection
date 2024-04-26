@@ -34,31 +34,31 @@ The choice to use YOLO for this project is based on several factors highlighted 
 
 Furthermore, YOLO has undergone several iterations, with the latest being YOLOv7, which stands out for its speed and accuracy. Its architecture and trainable bag-of-freebies have been reformed to integrate new features and meet the needs of different inference speeds, contributing to its advancements in accuracy and speed.
 
-# Additional Considerations
+## Additional Considerations
 
 When extending the Yolo-Basic-Object-Detection project, consider the following aspects to further enhance its functionality and scope:
 
-## 1. Custom Object Detection
+### 1. Custom Object Detection
 
 Explore the process of training the YOLO model on a custom dataset to detect specific objects relevant to your application domain.
 
-## 2. Real-time Video Object Detection
+### 2. Real-time Video Object Detection
 
 Adapt the object detection code to work with video streams, enabling real-time object detection in video feeds.
 
-## 3. Integration with Other Frameworks
+### 3. Integration with Other Frameworks
 
 Investigate the integration of the YOLO model with other popular deep learning frameworks, such as TensorFlow or PyTorch, to leverage additional functionalities and community support.
 
-## 4. Performance Optimization
+### 4. Performance Optimization
 
 Explore optimization techniques to improve the inference speed of the object detection model, ensuring efficient real-time processing.
 
-## 5. Object Tracking and Instance Segmentation
+### 5. Object Tracking and Instance Segmentation
 
 Extend the project to include object tracking and instance segmentation capabilities, allowing for more advanced analysis of object movements and interactions within the scene.
 
-## 6. User Interface Development
+### 6. User Interface Development
 
 Consider building a user-friendly interface for interacting with the object detection system, providing an intuitive experience for users.
 
